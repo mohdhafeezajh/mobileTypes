@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Learn.Kubernetes.MobileTypes.Persistence\Learn.Kubernetes.MobileTypes.Persistence.csproj" />
+  </ItemGroup>
+</Project>
